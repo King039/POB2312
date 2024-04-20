@@ -2,9 +2,9 @@ using System;
 
 namespace POB2312
 {
-    public partial class Form1 : Form
+    public partial class CProgram : Form
     {
-        public Form1()
+        public CProgram()
         {
             InitializeComponent();
         }

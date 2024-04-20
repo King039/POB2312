@@ -5,6 +5,10 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POB2312", "POB2312.csproj", "{7AC351E1-0027-4DCA-A1D7-AB6992EF5D38}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculeitor", "..\Calculeitor\Calculeitor.csproj", "{B2119DC9-231F-47CE-AAB8-61C44E816178}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FonCartinka", "..\FonCartinka\FonCartinka.csproj", "{BED24706-8795-4B08-A9BA-EC1DAAA0D0E5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{7AC351E1-0027-4DCA-A1D7-AB6992EF5D38}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7AC351E1-0027-4DCA-A1D7-AB6992EF5D38}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7AC351E1-0027-4DCA-A1D7-AB6992EF5D38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2119DC9-231F-47CE-AAB8-61C44E816178}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2119DC9-231F-47CE-AAB8-61C44E816178}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2119DC9-231F-47CE-AAB8-61C44E816178}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2119DC9-231F-47CE-AAB8-61C44E816178}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BED24706-8795-4B08-A9BA-EC1DAAA0D0E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BED24706-8795-4B08-A9BA-EC1DAAA0D0E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BED24706-8795-4B08-A9BA-EC1DAAA0D0E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BED24706-8795-4B08-A9BA-EC1DAAA0D0E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,6 +1,6 @@
 ﻿namespace POB2312
 {
-    partial class Form1
+    partial class CProgram
     {
         /// <summary>
         ///  Required designer variable.
@@ -132,7 +132,7 @@
             lbResalt.TabIndex = 8;
             lbResalt.TextAlign = ContentAlignment.MiddleCenter;
             // 
-            // Form1
+            // CProgram
             // 
             AutoScaleDimensions = new SizeF(11F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
@@ -148,7 +148,7 @@
             Controls.Add(label1);
             Font = new Font("Segoe UI", 14.25F, FontStyle.Regular, GraphicsUnit.Point, 204);
             Margin = new Padding(5);
-            Name = "Form1";
+            Name = "CProgram";
             Text = "Моя первая программа";
             ResumeLayout(false);
             PerformLayout();
