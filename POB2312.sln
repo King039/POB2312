@@ -9,11 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculeitor", "..\Calculeit
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FonCartinka", "..\FonCartinka\FonCartinka.csproj", "{BED24706-8795-4B08-A9BA-EC1DAAA0D0E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "32 Lesson", "..\32 Lesson\32 Lesson.csproj", "{28EA0611-205C-477F-B8B0-5E18EF3257BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "32 Lesson", "..\32 Lesson\32 Lesson.csproj", "{28EA0611-205C-477F-B8B0-5E18EF3257BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "31.2 Lesson", "..\31.2 Lesson\31.2 Lesson.csproj", "{8BA9EA2D-97B1-4905-832A-BA291C0DDBE7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "31.2 Lesson", "..\31.2 Lesson\31.2 Lesson.csproj", "{8BA9EA2D-97B1-4905-832A-BA291C0DDBE7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "33.lesson", "..\33.lesson\33.lesson.csproj", "{17BBE1B6-081C-440C-8AF1-5B3AA1D1561F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "33.lesson", "..\33.lesson\33.lesson.csproj", "{17BBE1B6-081C-440C-8AF1-5B3AA1D1561F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
